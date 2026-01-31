@@ -155,13 +155,12 @@ This project was completed collaboratively by Team 8 during the CyBlack Threat I
 ## 🚀 Why This Project Matters
 This repository demonstrates **real-world Cyber Threat Intelligence skills**, including:
 -Cloud  
-CTI platform deployment  
+-CTI platform deployment  
 - Threat actor profiling  
 - Analytical framework application  
 - Executive-level intelligence reporting  
 
 
-This report was prepared by TEAM 8 with Cyberinfiniti ltd, a group of 8 analysts plus myself
-John Ofulue - Team Lead(Team 8)
+
 It is designed to reflect the expectations of **SOC Analysts, Threat Intelligence Analysts, and Blue Team professionals**.
 
