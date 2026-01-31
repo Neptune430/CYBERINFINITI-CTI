@@ -155,8 +155,8 @@ This project was completed collaboratively by Team 8 during the CyBlack Threat I
 ## 🚀 Why This Project Matters
 This repository demonstrates **real-world Cyber Threat Intelligence skills**, including:
 
--Cloud  
--CTI platform deployment  
+- Cloud  
+- CTI platform deployment  
 - Threat actor profiling  
 - Analytical framework application  
 - Executive-level intelligence reporting  
